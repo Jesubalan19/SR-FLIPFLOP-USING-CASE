@@ -1,4 +1,4 @@
-# SR-FLIPFLOP-USING-CASE
+### EX-06 <p align="center"><b>SR-FLIPFLOP-USING-CASE</b>   
 
 **AIM:**
 
